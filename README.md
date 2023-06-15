@@ -4,4 +4,4 @@ This is shop api.
 
 ##
 
-Front-end repo: [Link](https://github.com/longphanquangminh/asrv-shop-clone-frontend).
+Front-end repo: [Link](https://github.com/longphanquangminh/vti-academy-asrv-shop-clone-frontend).
